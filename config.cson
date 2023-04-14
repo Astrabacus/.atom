@@ -1,0 +1,20 @@
+"*":
+  core:
+    colorProfile: "srgb"
+    disabledPackages: [
+      "zentabs"
+    ]
+    fileSystemWatcher: "atom"
+    restorePreviousWindowsOnStart: "always"
+    themes: [
+      "atom-dark-ui"
+      "hyperspace-syntax"
+    ]
+    titleBar: "hidden"
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 11
+  "exception-reporting":
+    userId: "294c804e-86cd-4033-8f1a-44b3f2c7ebfc"
+  github:
+    remoteFetchProtocol: "ssh"

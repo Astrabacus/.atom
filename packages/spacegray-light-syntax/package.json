@@ -1,0 +1,41 @@
+{
+  "_from": "https://www.atom.io/api/packages/spacegray-light-syntax/versions/0.1.0/tarball",
+  "_id": "spacegray-light-syntax@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-tRdvit2CMTCgb6O7qtiNF1XfTj8vucfG28VY8CV/zutkxMpDEBriN3IooCr1DbEx1drpdwIg4eFMGdwq9UNWNg==",
+  "_location": "/spacegray-light-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/spacegray-light-syntax/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/spacegray-light-syntax/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/spacegray-light-syntax/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/spacegray-light-syntax/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/spacegray-light-syntax/versions/0.1.0/tarball",
+  "_shasum": "c5be5c485b43b38c5ed439705bbda15652834881",
+  "_spec": "https://www.atom.io/api/packages/spacegray-light-syntax/versions/0.1.0/tarball",
+  "_where": "C:\\Users\\41787\\AppData\\Local\\Temp\\apm-install-dir-20221114-17940-nkxeue.cn89f",
+  "bugs": {
+    "url": "https://github.com/aesarius/spacegray-light-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Port of the Spacegray Sublime Theme for Atom Syntax",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/aesarius/spacegray-light-syntax#readme",
+  "license": "MIT",
+  "name": "spacegray-light-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aesarius/spacegray-light-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.1.0"
+}

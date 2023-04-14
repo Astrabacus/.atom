@@ -1,0 +1,45 @@
+{
+  "_from": "https://www.atom.io/api/packages/hyperspace-syntax/versions/0.1.4/tarball",
+  "_id": "hyperspace-syntax@0.1.4",
+  "_inBundle": false,
+  "_integrity": "sha512-EtQhTJEYkUDyDrzTFRnxSrJirjIkEXZsSvCgelTgFxIOdJ0JV/CzB3GXyNo2dLPKtmV2vf7qY2wW4zR7pPCt7A==",
+  "_location": "/hyperspace-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/hyperspace-syntax/versions/0.1.4/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/hyperspace-syntax/versions/0.1.4/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/hyperspace-syntax/versions/0.1.4/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/hyperspace-syntax/versions/0.1.4/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/hyperspace-syntax/versions/0.1.4/tarball",
+  "_shasum": "666a9177c5305fef916725dd211586e39412cca6",
+  "_spec": "https://www.atom.io/api/packages/hyperspace-syntax/versions/0.1.4/tarball",
+  "_where": "C:\\Users\\41787\\AppData\\Local\\Temp\\apm-install-dir-20221114-1248-17dy8sw.owb5",
+  "bugs": {
+    "url": "https://github.com/koteus/hyperspace-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "The right syntax theme",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/koteus/hyperspace-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "hyperspace-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koteus/hyperspace-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.1.4"
+}
