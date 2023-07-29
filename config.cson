@@ -1,0 +1,23 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "zentabs"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "hyperspace-syntax"
+    ]
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 12
+  "exception-reporting":
+    userId: "3f182aab-279f-4877-af1a-bc7fef83e047"
+  github:
+    remoteFetchProtocol: "ssh"
+    sourceRemoteName: "graphql"
+  metrics:
+    dev:
+      sendMetricsInDevMode: true
+      verboseMode: true

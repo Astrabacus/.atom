@@ -1,0 +1,85 @@
+{
+  "_from": "https://www.atom.io/api/packages/racer-v2/versions/2.2.1/tarball",
+  "_id": "racer-v2@2.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-zaQCqjOT1WJU5o/n5cpq5aPhHL/pAmjAFDqeYpgjaAIT5XVlV5WQs4Kv4sYbRMogdR1VoLgYVMsK+cmVSNY47A==",
+  "_location": "/racer-v2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/racer-v2/versions/2.2.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/racer-v2/versions/2.2.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/racer-v2/versions/2.2.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/racer-v2/versions/2.2.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/racer-v2/versions/2.2.1/tarball",
+  "_shasum": "5825290308c9042471528cec8fa4a8074d593f78",
+  "_spec": "https://www.atom.io/api/packages/racer-v2/versions/2.2.1/tarball",
+  "_where": "C:\\Users\\41787\\AppData\\Local\\Temp\\apm-install-dir-20221114-18852-1gnom6t.k5bq",
+  "author": {
+    "name": "Eric West",
+    "email": "esw9999@gmail.com",
+    "url": "https://github.com/edubkendo"
+  },
+  "bugs": {
+    "url": "https://github.com/Nickforall/atom-racer/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "mathieu _alkama_ m.",
+      "email": "code@alkama.com",
+      "url": "https://github.com/alkama"
+    },
+    {
+      "name": "Nathan _phaux_",
+      "email": "phaux@horsefucker.org",
+      "url": "https://github.com/phaux"
+    },
+    {
+      "name": "Michael _mcanders_ Anderson",
+      "email": "mcanders1@gmail.com",
+      "url": "https://github.com/mcanders"
+    },
+    {
+      "name": "Konstantin _UvaK_ Uvarov",
+      "email": "konstantin.uvarov@gmail.com",
+      "url": "https://github.com/UvaK"
+    }
+  ],
+  "dependencies": {
+    "underscore-plus": "~1.6.6"
+  },
+  "deprecated": false,
+  "description": "Intelligent Rust code completion.",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/Nickforall/atom-racer#readme",
+  "keywords": [
+    "rust",
+    "racer",
+    "autocomplete",
+    "autocomplete-plus"
+  ],
+  "license": "MIT",
+  "main": "./lib/racer",
+  "name": "racer-v2",
+  "providedServices": {
+    "autocomplete.provider": {
+      "description": "Intelligent Rust code completion",
+      "versions": {
+        "2.0.0": "provideAutocompletion"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickforall/atom-racer.git"
+  },
+  "version": "2.2.1"
+}

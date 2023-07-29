@@ -1,0 +1,15 @@
+{
+  "name": "hyperspace-syntax",
+  "theme": "syntax",
+  "version": "0.1.4",
+  "description": "The right syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/koteus/hyperspace-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
